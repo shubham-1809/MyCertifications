@@ -1,5 +1,5 @@
 # MyCertifications
-<h1> MICROSOFT CERTIFICATIONS </h1>
+<h2> MICROSOFT CERTIFICATIONS </h2>
 <ol>
   <b> <h3> <li> Microsoft Power Platform Fundamentals (Completed : Jan 2023) </b> </h3>
     <h4> Relevant Skills: </h4>
